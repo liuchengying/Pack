@@ -9,6 +9,9 @@
 * node
 * yarn
 
+> git clone git@github.com:liuchengying/MiniPack.git
+
+> yarn install
 ### pack 方法
 主要暴露方法，./src/pack.js
 
