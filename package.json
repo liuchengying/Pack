@@ -1,0 +1,16 @@
+{
+  "name": "pack",
+  "version": "1.0.0",
+  "description": "package for modules tolls",
+  "main": "./src/pack.js",
+  "repository": "",
+  "author": "liuchengying",
+  "license": "MIT",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "babel-traverse": "^6.26.0",
+    "babylon": "^6.18.0",
+    "uglify-js": "^3.5.2"
+  }
+}
